@@ -17,7 +17,7 @@ button {
   align-items: center;
   justify-content: center;
   height: 435px;
-  background-color: red;
+  background-color: yellow;
 }
 
 .container2 {
@@ -26,5 +26,5 @@ button {
   align-items: center;
   justify-content: center;
   height: 435px;
-  background-color: rgb(0, 255, 251);
+  background-color: #ff9e37;
 }

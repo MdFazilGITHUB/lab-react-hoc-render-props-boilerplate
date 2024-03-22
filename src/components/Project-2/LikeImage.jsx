@@ -11,7 +11,7 @@ export default function LikeImage() {
     <div>
       <button
         style={{
-          backgroundColor: "yellowgreen",
+          backgroundColor: "white",
           color: "black",
           fontSize: "16px",
         }}
